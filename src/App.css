@@ -38,5 +38,7 @@
 }
 
 .read-the-docs {
+  display: inline-flex;
   color: #888;
+  gap: 10px;
 }
